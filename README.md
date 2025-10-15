@@ -1,67 +1,19 @@
-# Hi there, I’m [Your Name] 👋  
-**Software Developer | Backend Enthusiast**
+<h1 align="center">Hi 👋, I'm monali shevgan</h1>
+<h3 align="center">A passionate web developer from India</h3>
 
-[![Profile Banner](https://user-images.githubusercontent.com/your-user/your-banner-image.png)](https://github.com/your-user)
+- 🔭 I’m currently working on **classJuggler**
 
-I’m a software developer with **4 years of experience**, passionate about building robust backends and clean solutions.  
-  
----
+- 🌱 I’m currently learning **Angular**
 
-## 🛠️ Skills & Tools
+- 💬 Ask me about **Core php,codeigniter,js,jquery,Mysql**
 
-| Backend / Core | Frontend / JS | APIs & Data | Others |
-|----------------|----------------|----------------|---------|
-| PHP, Core PHP, CodeIgniter | JavaScript, jQuery, AJAX | RESTful APIs, JSON, Integration | Git, MySQL, Linux |
+- 📫 How to reach me **monalishevgan14@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🚀 What I Do
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-- Build and maintain backend services using PHP & CodeIgniter  
-- Integrate APIs & third-party services  
-- Work with JavaScript, AJAX & jQuery to add interactivity  
-- Write clean, maintainable, testable code  
-- Optimize database queries and performance  
-
----
-
-## 📂 Repositories & Highlights
-
-Here are a few projects I’m proud of:
-
-| Project | Description |
-|--------|-------------|
-| **Project A** | Backend system for managing X, API + admin panel |
-| **Project B** | jQuery & AJAX heavy front-end module |
-| **Project C** | Integration with external APIs, handling webhooks |
-
-Check out my [GitHub repositories](https://github.com/your-user?tab=repositories) for more.
-
----
-
-## ✨ Personal Interests
-
-When I’m not coding, I enjoy:
-
-- Reading tech blogs & learning about new frameworks  
-- Contributing to open source projects  
-- Exploring algorithm challenges  
-- Automating stuff, solving puzzles  
-
----
-
-## 📫 Contact Me
-
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Twitter: [@your_handle](https://twitter.com/your_handle)  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> — *Cory House*
-
----
-
-> ℹ️ _Note: Replace every `your-user`, `yourprofile`, and placeholder image URL with your actual GitHub user, links, and images._
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalishevgan14&show_icons=true&locale=en&layout=compact" alt="monalishevgan14" /></p>
