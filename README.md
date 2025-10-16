@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a software developer 👨‍💻 with 4 years of experience specializing in backend development. I have a strong foundation in PHP and have worked extensively with frameworks like CodeIgniter. I enjoy solving complex problems and building efficient, scalable applications.
+I'm a software developer 👨‍💻 specializing in backend development, with a strong foundation in Core PHP and extensive experience using frameworks like CodeIgniter. I enjoy solving complex problems and building efficient, scalable applications that make an impact.
 
 
 
