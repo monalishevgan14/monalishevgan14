@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a software developer 👨‍💻 specializing in backend development, with a strong foundation in Core PHP and extensive experience using frameworks like CodeIgniter, Laravel. I enjoy solving complex problems and building efficient, scalable applications that make an impact.
+I'm a software developer 👨‍💻 specialising  in backend development, with a strong foundation in Core PHP and extensive experience using frameworks like CodeIgniter, Laravel. I enjoy solving complex problems and building efficient, scalable applications that make an impact.
 
 
 
